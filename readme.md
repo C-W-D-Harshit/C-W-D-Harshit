@@ -7,8 +7,8 @@ A passionate Full Stack Developer
 Hello, I am a highly skilled and experienced Full Stack Developer specializing in MERN (MongoDB, Express.js, React.js, Node.js) and JAMstack (JavaScript, APIs, and Markup) development. I offer a wide range of services, from creating simple yet elegant websites like portfolios, landing pages, and blog applications to developing comprehensive e-commerce marketplaces like Amazon and Flipkart. All my projects are meticulously crafted to be full stack and production-ready, ensuring seamless functionality and optimal performance.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [www.cleverdevloper.in](http://cleverdevloper.in)
-* ✉️  You can contact me at [hello@cleverdevloper.in](mailto:hello@cleverdevloper.in)
+* 🖥️  See my portfolio at [www.cleverdeveloper.in](http://cleverdeveloper.in)
+* ✉️  You can contact me at [hello@cleverdeveloper.in](mailto:hello@cleverdeveloper.in)
 * 🧠  I'm learning NestJs and Java
 * 🤝  I'm open to collaborating on MERN and NextJs
 * ⚡  I'm Iron Man

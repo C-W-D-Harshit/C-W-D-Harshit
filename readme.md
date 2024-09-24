@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harshit Sharma
 ======================================================================================================================================
 
-A passionate Full Stack Developer
----------------------------------
-
 I’m a Full Stack Developer who loves building applications that make life easier. Using the MERN stack and JAMstack, I work on everything from personal projects to tools that help people collaborate better. I’m always eager to learn new technologies and enjoy creating solutions that genuinely help users.
 
 * 🌍  I'm based in India

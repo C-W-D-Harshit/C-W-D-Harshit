@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate Full Stack Developer
 ---------------------------------
 
-Hello, I am a highly skilled and experienced Full Stack Developer specializing in MERN (MongoDB, Express.js, React.js, Node.js) and JAMstack (JavaScript, APIs, and Markup) development. I offer a wide range of services, from creating simple yet elegant websites like portfolios, landing pages, and blog applications to developing comprehensive e-commerce marketplaces like Amazon and Flipkart. All my projects are meticulously crafted to be full stack and production-ready, ensuring seamless functionality and optimal performance.
+I’m a Full Stack Developer who loves building applications that make life easier. Using the MERN stack and JAMstack, I work on everything from personal projects to tools that help people collaborate better. I’m always eager to learn new technologies and enjoy creating solutions that genuinely help users.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [www.cleverdeveloper.in](http://cleverdeveloper.in)
 * ✉️  You can contact me at [hello@cleverdeveloper.in](mailto:hello@cleverdeveloper.in)
-* 🧠  I'm learning NestJs and Java
+* 🧠  I'm learning Electron.
 * 🤝  I'm open to collaborating on MERN and NextJs
 * ⚡  I'm Iron Man
 

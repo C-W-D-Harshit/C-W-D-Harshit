@@ -7,7 +7,7 @@ I’m a Full Stack Developer who loves building applications that make life easi
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [www.cleverdeveloper.in](http://cleverdeveloper.in)
-* ✉️  You can contact me at [hello@cleverdeveloper.in](mailto:hello@cleverdeveloper.in)
+* ✉️  You can contact me at [cwd.harshit911@gmail.com](mailto:cwd.harshit911@gmail.com)
 * 🧠  I'm learning Electron.
 * 🤝  I'm open to collaborating on MERN and NextJs
 * ⚡  I'm Iron Man

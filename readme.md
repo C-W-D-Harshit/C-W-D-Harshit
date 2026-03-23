@@ -10,8 +10,8 @@ A **Full Stack Developer** from India, specializing in creating intuitive and ef
 ### 🚀 About Me
 
 *   🌍 Based in **India**
-*   🖥️ My Portfolio: **[cleverdeveloper.in](http://www.cleverdeveloper.in)**
-*   ✉️ Get in Touch: **[cwd.harshit911@gmail.com](mailto:cwd.harshit911@gmail.com)**
+*   🖥️ My Portfolio: **[cleverdeveloper.in](http://www.harxit.com)**
+*   ✉️ Get in Touch: **[cwd.harshit911@gmail.com](mailto:hey@harxit.com)**
 *   🧠 Currently learning: **Electron.js** for cross-platform desktop applications.
 *   🤝 Open to collaborating on: Impactful **MERN stack or Next.js** projects.
 *   💬 Ask me about: **React, Node.js, Next.js, JavaScript, Full Stack Development**
